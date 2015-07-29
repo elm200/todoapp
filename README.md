@@ -1,4 +1,4 @@
-== README
+# README
 
 React.js + Rails の TODO デモアプリケーションです。
 
@@ -10,8 +10,9 @@ https://github.com/facebook/flux/tree/master/examples/flux-todomvc
 
 実質、Facebook のサンプルに手を入れている部分は、public/js/stores/TodoStore.js だけです。
 
-* インストール方法
+## インストール方法
 
+```
 $ git clone git@github.com:elm200/todoapp.git
 $ cd todoapp
 $ rake db:migrate
@@ -19,3 +20,4 @@ $ cd public
 $ npm install
 $ cd ..
 $ rails s
+```
