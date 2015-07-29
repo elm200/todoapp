@@ -6,6 +6,9 @@ Facebook の [flux-todomvc](https://github.com/facebook/flux/tree/master/example
 
 実質、Facebook のサンプルに手を入れている部分は、public/js/stores/TodoStore.js だけです。
 
+## 注意
+現在、実装のわかりやすさを優先して CSRF からの保護を無効にしてあります。近々、CSRF 対策を行う予定。
+
 ## インストール方法
 
 ```
