@@ -1,4 +1,4 @@
-# React.js + Rails の TODO デモアプリ
+# Flux + React.js + Rails の TODO デモアプリ
 
 Facebook の [flux-todomvc](https://github.com/facebook/flux/tree/master/examples/flux-todomvc) を参考にしました。
 
