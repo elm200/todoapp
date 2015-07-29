@@ -1,10 +1,6 @@
-# README
+# React.js + Rails の TODO デモアプリケーション
 
-React.js + Rails の TODO デモアプリケーションです。
-
-Facebook の flux-todomvc
-https://github.com/facebook/flux/tree/master/examples/flux-todomvc
-を参考にしました。
+Facebook の [flux-todomvc](https://github.com/facebook/flux/tree/master/examples/flux-todomvc) を参考にしました。
 
 上記のサンプルでは、Store がオンメモリだったので、Ajax で Rails のバックエンドと通信して、データをデータベース(Sqlite3)に保存するようにしました。
 
