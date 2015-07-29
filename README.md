@@ -1,4 +1,4 @@
-# React.js + Rails の TODO デモアプリケーション
+# React.js + Rails の TODO デモアプリ
 
 Facebook の [flux-todomvc](https://github.com/facebook/flux/tree/master/examples/flux-todomvc) を参考にしました。
 
@@ -17,3 +17,5 @@ $ npm install
 $ cd ..
 $ rails s
 ```
+
+http://localhost:3000/ にアクセスすると、TODOアプリが起動します。
